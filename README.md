@@ -27,7 +27,7 @@
 **[Random Greeting]** is a fullstack web application that displays a random greeting each time the page app loads.
 
 ## Link To FrontEnd Project:
-- "https://github.com/david-lanzz/hello-rails-backend/"
+- "https://github.com/david-lanzz/hello-rails-front-end/"
 
 ## 🛠 Built With <a name="built-with"></a>
 
